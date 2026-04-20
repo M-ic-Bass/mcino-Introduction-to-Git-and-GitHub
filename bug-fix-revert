@@ -1,0 +1,12 @@
+curl https://api.github.com/repos/M-ic-Bass/mcino-Introduction-to-Git-and-GitHub/pulls?state=all
+[
+  {
+    "title": "Fix typo",
+    "state": "closed",
+    "head": {
+      "repo": {
+        "full_name": "M-ic-Bass/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]
